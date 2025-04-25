@@ -1,6 +1,6 @@
 
 
-# Line graph that represents a U-turn
+# Line graph representing a U-turn
 X <- c(0, 0, 4, 4)  
 Z <- c(0, 2, 2, 0)
 
